@@ -1,5 +1,5 @@
 {
-  "name": "Taqreeb Sarai — Quotation Studio",
+  "name": "Taqreeb Sarai",
   "short_name": "Taqreeb Sarai",
   "description": "Create and manage Taqreeb Sarai event quotations.",
   "start_url": "/",
@@ -9,6 +9,6 @@
   "background_color": "#f6f4ef",
   "theme_color": "#064737",
   "icons": [
-    { "src": "/app-icon.svg?v=2", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    { "src": "/app-icon.svg?v=3", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
 }

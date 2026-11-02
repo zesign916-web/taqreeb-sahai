@@ -1,5 +1,5 @@
-const CACHE_NAME = "la-dine-studio-v1";
-const APP_SHELL = ["/", "/manifest.webmanifest", "/app-icon.svg"];
+const CACHE_NAME = "taqreeb-sarai-v2";
+const APP_SHELL = ["/", "/manifest.webmanifest", "/app-icon.svg?v=3"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)));
